@@ -1,0 +1,10 @@
+prise secteur
+arduino nana
+thermistance
+thermocouple + driver
+lcd
+potentiomètre
+ventillateur
+1 led verte (en tesion)
+1 led rouge (chauffage)
+1 led orange (cooling)

@@ -1,0 +1,7 @@
+Afficher l'input analogique du potentiomètre sur le lcd (en %)
+Afficher la température du thermocouple en °C sur le lcd 
+Piloter la puissance du mosfet 
+LED verte quand en tension T < 40 °C
+LED rouge mosfet travaille
+led orange quand ventillateur travaille
+
